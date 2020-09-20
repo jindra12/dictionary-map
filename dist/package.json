@@ -1,0 +1,15 @@
+{
+  "name": "dictionary-map",
+  "version": "1.0.0",
+  "description": "Simple functor allowing you to have both standart Map behaviour with array-like operations",
+  "main": "index.js",
+  "repository": "https://github.com/jindra12/dictionary-map.git",
+  "author": "Jan Jindráček",
+  "license": "MIT",
+  "man": ["./README.md"],
+  "keywords": ["dictionary", "map", "mapped", "indexed", "utility", "utilities", "typescript", "dictionary map"],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
